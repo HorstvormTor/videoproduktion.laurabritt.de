@@ -372,7 +372,7 @@ div.tab-menu>button {
 
 .tab-menu {
   display: flex;
-
+  overflow-x: scroll;
 }
 
 .tab-container {
